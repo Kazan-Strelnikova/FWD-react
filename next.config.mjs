@@ -4,6 +4,7 @@ const nextConfig = {
   basePath: "/FWD-react",
   assetPrefix: "/FWD-react",
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
