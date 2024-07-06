@@ -1,0 +1,28 @@
+.footer {
+  background-color: #feaaaa;
+  height: 10rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+#comic {
+  height: 3rem;
+  width: fit-content;
+  margin-left: 1rem;
+  background-color: transparent;
+  border: 1px solid #fff6f6;
+  border-radius: 0.5rem;
+  box-shadow: 2px 4px 4px rgba(255, 105, 105, 0.5);
+  font-size: 1.25rem;
+  font-family: 'Zilla Slab';
+  color: #fff6f6;
+  cursor: pointer;
+}
+
+.signiture {
+  font-size: 1.5rem;
+  color: #fff6f6;
+  margin-right: 4rem;
+  margin-left: auto;
+}
